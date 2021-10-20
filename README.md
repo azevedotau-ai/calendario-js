@@ -7,6 +7,6 @@
 
 # Preview
 
-!["Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript"](https://github.com/azevedotau-ai/calendario-js.git/c1.png "Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript")
+!["Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript"](https://github.com/azevedotau-ai/calendario-js.git/c1.PNG "Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript")
 
-!["Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript"](https://github.com/azevedotau-ai/calendario-js.git/c2.png "Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript")
+!["Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript"](https://github.com/azevedotau-ai/calendario-js.git/c2.PNG "Calendar UI Design with Dark Mode and Animation Usando HTML CSS JavaScript")
